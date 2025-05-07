@@ -40,3 +40,76 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  color: #4CAF50;
+}
+
+.destination-lists {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.destination-column {
+  width: 45%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+li:hover {
+  background-color: #ddd;
+}
+
+li.visited {
+  text-decoration: line-through;
+  color: grey;
+}
+
+strong {
+  color: #007BFF;
+  font-size: 1.2em;
+}
+
+.add-destination {
+  margin-top: 20px;
+}
+
+.add-destination input {
+  margin: 5px;
+  padding: 8px;
+  width: 200px;
+}
+
+.add-destination button {
+  padding: 8px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-destination button:hover {
+  background-color: #45a049;
+}
+

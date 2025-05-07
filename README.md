@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VLovMVBC)
+
 # Inlämningsuppgift Todo
 
 I denna inlämningsuppgift kommer ni att skapa er egen todo-lista i en react-applikation.
@@ -32,7 +33,7 @@ npm i
 och
 
 ```shell
-npm run dev 
+npm run dev
 ```
 
 för att köra projektet.
@@ -42,3 +43,11 @@ för att köra projektet.
 - Börja med att planera ert arbete, börja inte med Visual Studio Code, även om det är lockande.
 - Gör ert bästa att inte stressa. Lättare sagt än gjort, jag vet. Men ingen mår bättre av att stressa.
 - Ha roligt, skratta när det blir fel och fortsätt att vara nyfiken :)
+
+# Resmål Todo App
+
+Den här applikationen låter mig skapa en lista över resmål jag vill besöka. Man kan:
+
+- Markera resmål som besökta
+- Skapa nya resmål
+- Ändra ordningen på resmålen genom drag and drop
